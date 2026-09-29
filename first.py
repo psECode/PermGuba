@@ -9,7 +9,9 @@ def main():
     print(
         "yep"
     )
-
+    print(
+        "yep"
+    )
 
 
 if __name__ == '__main__':
